@@ -2,6 +2,18 @@ User-agent: *
 Disallow: /easteregg
 Disallow: /realnerdsonly
 Disallow: /notforyou
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+######################### U SCRIPT KIDDIE! ########################################
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 >> bro this site is pure html,
 # it literally says Pure html! no js 
 # how do u want too find robots.txt? 
