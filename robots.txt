@@ -6,7 +6,7 @@ Disallow: /notforyou
 
 
 
-######################### U SCRIPT KIDDIE! ########################################
+######################### no robots.txt! ########################################
 
 
 
@@ -14,11 +14,7 @@ Disallow: /notforyou
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
->> bro this site is pure html,
-# it literally says Pure html! no js 
-# how do u want too find robots.txt? 
-# go learn how the web works, not how to inspect-element
-# dont be a script kiddie bro, you are not hacking anything, you're embarrassing yourself
+>> no robots.txt here.
 ##############################
 Yours sincerely,
   @d0mi0
