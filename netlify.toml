@@ -1,0 +1,4 @@
+[[headers]]
+  for = "/contact.html"
+  [headers.values]
+    Basic-Auth = "adam:password123"
