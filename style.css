@@ -1,0 +1,123 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: black;
+  color: rgb(0, 255, 0);
+  font-size: 17px;
+}
+p {
+  font-size: 17px;
+}
+ul {
+  font-size: 17px;
+}
+.p-register-form {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+input {
+  font-size: 17px;
+  background-color: black;
+  color:rgb(0, 255, 0);
+  border: none;
+  outline: none;
+  box-shadow: 2px 2px 10px rgba(0, 255, 0, 0.7);
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 5px;
+  padding-right: 5px;
+  width: 100%;
+  max-width: 300px;
+  font-family: 'Courier New', Courier, monospace;
+}
+.register-button {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  padding: 5px 10px;
+  font-size: 17px;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: black;
+  color: rgb(0, 255, 0);
+  border: 1px solid rgb(0, 255, 0);
+  box-shadow: 0 0 5px rgba(0, 255, 0, 0.5);
+}
+.gotologinpg {
+  margin-top: 0;
+  width: 100%;
+  max-width: 300px;
+  padding: 5px 10px;
+  font-size: 17px;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: black;
+  color: rgb(0, 255, 0);
+  border: 1px solid rgb(0, 255, 0);
+  box-shadow: 0 0 5px rgba(0, 255, 0, 0.5);
+}
+.gotoregisterpg {
+  margin-top: 0;
+  width: 100%;
+  max-width: 300px;
+  padding: 5px 10px;
+  font-size: 17px;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: black;
+  color: rgb(0, 255, 0);
+  border: 1px solid rgb(0, 255, 0);
+  box-shadow: 0 0 5px rgba(0, 255, 0, 0.5);
+}
+.gotoregisterpg:hover {
+  cursor: pointer;
+  opacity: 0.6;
+}
+.gotoregisterpg:active {
+  cursor: pointer;
+  opacity: 0.3;
+}
+.gotologinpg:hover {
+  cursor: pointer;
+  opacity: 0.6;
+}
+.gotologinpg:active {
+  cursor: pointer;
+  opacity: 0.3;
+}
+.register-button:hover {
+  cursor: pointer;
+  opacity: 0.6;
+}
+.register-button:active {
+  cursor: pointer;
+  opacity: 0.3;
+}
+hr {
+  border: none;
+  border-top: 1px dashed rgb(0, 255, 0);
+  margin: 20px 0;
+}
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+.blinking-cursor::after {
+  content: "_";
+  animation: blink 1s step-end infinite;
+}
+span {
+  color: red;
+}
+button {
+  margin-top: 0;
+  width: 100%;
+  max-width: 300px;
+  padding: 5px 10px;
+  font-size: 17px;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: black;
+  color: rgb(0, 255, 0);
+  border: 1px solid rgb(0, 255, 0);
+  box-shadow: 0 0 5px rgba(0, 255, 0, 0.5);
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
